@@ -59,7 +59,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/shubhamshinde6762/efir.git
+   git clone https://github.com/suryansh101gupta/E-FIR.git
    cd efir
    ```
 
