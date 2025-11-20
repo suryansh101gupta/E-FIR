@@ -102,12 +102,3 @@
 
 4. **Data Security**
    - All data is encrypted and securely stored in MongoDB, with bcryptJS ensuring the security of digital evidence.
-
-
-## 💼 Contact
-
-For any inquiries or suggestions, reach out to the team:
-
-- **Shubham Shinde**: [LinkedIn](https://www.linkedin.com/in/shubhamshinde6762/) | [GitHub](https://github.com/shubhamshinde6762)
-
-Join us in revolutionizing the legal process with **EFIR**! 🚀
